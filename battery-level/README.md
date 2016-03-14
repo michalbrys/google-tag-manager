@@ -1,10 +1,10 @@
 # Battery level
 
 Push information about:
-*battery level
-*is battery charging
-*battery time to charge
-*battery time to discharge
+* battery level
+* is battery charging
+* battery time to charge
+* battery time to discharge
 
 to dataLayer
 
